@@ -1,0 +1,4 @@
+dashclockbattery
+================
+
+DashClock Battery Extension
