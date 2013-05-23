@@ -47,7 +47,7 @@
     
     <PreferenceCategory android:title="@string/pref_update" >
         <CheckBoxPreference
-            android:defaultValue="false"
+            android:defaultValue="true"
             android:key="pref_battery_realtime"
             android:summary="@string/pref_realtimeSummary"
             android:title="@string/pref_realtime" >
