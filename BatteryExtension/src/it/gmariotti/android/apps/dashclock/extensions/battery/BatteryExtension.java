@@ -47,7 +47,7 @@ public class BatteryExtension extends DashClockExtension {
 	protected boolean prefTemp = true;
 	protected boolean prefVoltage = true;
 	protected boolean prefHealth = true;
-	protected boolean prefRealtime = false;
+	protected boolean prefRealtime = true;
 
 	// Value
 	private int level;
@@ -225,7 +225,7 @@ public class BatteryExtension extends DashClockExtension {
 		prefCharge = sp.getBoolean(PREF_BATTERY_CHARGE, true);
 		prefTemp = sp.getBoolean(PREF_BATTERY_TEMP, true);
 		prefHealth = sp.getBoolean(PREF_BATTERY_HEALTH, true);
-		prefRealtime = sp.getBoolean(PREF_BATTERY_REALTIME, false);
+		prefRealtime = sp.getBoolean(PREF_BATTERY_REALTIME, true);
 	}
 
 	
