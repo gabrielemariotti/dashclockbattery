@@ -1,0 +1,71 @@
+<!--
+  Copyright 2013 Google Inc.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">Extensión de Batería para DashClock</string>
+    
+    <string name="extension_title">Batería</string>
+    <string name="extension_description">Muestra información acerca de la batería</string>
+    <string name="extension_titlePref">Ajustes de batería</string>
+    
+    
+    <string name="charge_2">USB</string>
+    <string name="charge_1">CA</string>
+    <string name="charge_5">INALÁMBRICO</string>
+    
+    <string name="charge_usb">USB</string>
+    <string name="charge_ac">CA</string>
+    <string name="charge_wireless">INALÁMBRICO</string>
+    
+    <string name="charging_2">Cargando</string>
+    <string name="charging_5">Cargada</string>
+    <string name="charging_3">Sin cargar</string>
+    <string name="charging_4">Descargando</string>
+    
+    <string name="charging">Cargando</string>
+    <string name="discharging">Sin cargar</string>
+    <string name="full">Cargada</string>
+    
+    <string name="battery_health_1">Desconocido</string>
+    <string name="battery_health_2">Bueno</string>
+    <string name="battery_health_3">Sobrecalentamiento</string>
+    <string name="battery_health_4">Muerta</string>
+    <string name="battery_health_5">Sobretensión</string>
+    <string name="battery_health_6">No especificado</string>
+    <string name="battery_health_7">Dañada</string>
+    
+    <string name="celsius">°C</string>
+    <string name="mv">mV</string>
+    
+    <string name="pref_display">Detalles de la batería</string>
+    <string name="pref_update">Actualización</string>
+    
+    <string name="pref_charge">Carga</string>
+    <string name="pref_chargeSummary">Muestra información sobre la fuente de alimentación eléctrica</string>
+    
+    <string name="pref_temp">Temperatura</string>
+    <string name="pref_tempSummary">Muestra información sobre la temperatura</string>
+    
+    <string name="pref_voltage">Tensión</string>
+    <string name="pref_voltageSummary">Muestra información sobre el voltaje</string>
+    
+    <string name="pref_health">Estado</string>
+    <string name="pref_healthSummary">Muestra información sobre el nivel de estado de la batería</string>
+    
+    <string name="pref_realtime">Actualización en tiempo real</string>
+    <string name="pref_realtimeSummary">Actualización inmediata de datos</string>
+    
+</resources>
