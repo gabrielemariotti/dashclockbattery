@@ -4,6 +4,9 @@ DashClock Battery Extension is an extension for DashClock Widget.
 
 It requires [DashClock Widget by Roman Nurik][1].
 
+You can get it on Google Play:
+[![Get it on Google Play](http://www.android.com/images/brand/get_it_on_play_logo_small.png)](https://play.google.com/store/apps/details?id=it.gmariotti.android.apps.dashclock.extensions.battery)
+
 Features
 --------
 
