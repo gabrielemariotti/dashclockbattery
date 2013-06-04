@@ -1,0 +1,71 @@
+<!--
+  Copyright 2013 Google Inc.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">DashClock 배터리 확장</string>
+    
+    <string name="extension_title">배터리</string>
+    <string name="extension_description">배터리 정보를 표시합니다</string>
+    <string name="extension_titlePref">배터리 설정</string>
+    
+    
+    <string name="charge_2">USB</string>
+    <string name="charge_1">AC</string>
+    <string name="charge_5">무선</string>
+    
+    <string name="charge_usb">USB</string>
+    <string name="charge_ac">AC</string>
+    <string name="charge_wireless">무선</string>
+    
+    <string name="charging_2">충전중</string>
+    <string name="charging_5">완충</string>
+    <string name="charging_3">미충전</string>
+    <string name="charging_4">방전중</string>
+    
+    <string name="charging">충전중</string>
+    <string name="discharging">미충전</string>
+    <string name="full">완충</string>
+    
+    <string name="battery_health_1">모름</string>
+    <string name="battery_health_2">양호</string>
+    <string name="battery_health_3">과열</string>
+    <string name="battery_health_4">사망</string>
+    <string name="battery_health_5">과전압</string>
+    <string name="battery_health_6">정의되지 않음</string>
+    <string name="battery_health_7">차가움</string>
+    
+    <string name="celsius">°C</string>
+    <string name="mv">mV</string>
+    
+    <string name="pref_display">배터리 상세</string>
+    <string name="pref_update">갱신</string>
+    
+    <string name="pref_charge">충전</string>
+    <string name="pref_chargeSummary">현재 전원 종류 정보 표시</string>
+    
+    <string name="pref_temp">온도</string>
+    <string name="pref_tempSummary">현재 온도 정보 표시</string>
+    
+    <string name="pref_voltage">전압</string>
+    <string name="pref_voltageSummary">전압 정보 표시</string>
+    
+    <string name="pref_health">상태</string>
+    <string name="pref_healthSummary">상태 정보 표시</string>
+    
+    <string name="pref_realtime">실시간 갱신</string>
+    <string name="pref_realtimeSummary">변경 정보는 즉시 반영됩니다</string>
+    
+</resources>
