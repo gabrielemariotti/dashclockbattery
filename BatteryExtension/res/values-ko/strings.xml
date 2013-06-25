@@ -24,12 +24,13 @@
     
     <string name="charge_2">USB</string>
     <string name="charge_1">AC</string>
-    <string name="charge_5">무선</string>
+    <string name="charge_4">무선</string>
     
     <string name="charge_usb">USB</string>
     <string name="charge_ac">AC</string>
     <string name="charge_wireless">무선</string>
     
+    <string name="charging_1">모름</string>
     <string name="charging_2">충전중</string>
     <string name="charging_5">완충</string>
     <string name="charging_3">미충전</string>

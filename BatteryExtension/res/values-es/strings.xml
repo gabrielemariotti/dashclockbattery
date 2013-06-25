@@ -24,12 +24,13 @@
     
     <string name="charge_2">USB</string>
     <string name="charge_1">CA</string>
-    <string name="charge_5">INALÁMBRICO</string>
+    <string name="charge_4">INALÁMBRICO</string>
     
     <string name="charge_usb">USB</string>
     <string name="charge_ac">CA</string>
     <string name="charge_wireless">INALÁMBRICO</string>
     
+    <string name="charging_1">Desconocido</string>
     <string name="charging_2">Cargando</string>
     <string name="charging_5">Cargada</string>
     <string name="charging_3">Sin cargar</string>

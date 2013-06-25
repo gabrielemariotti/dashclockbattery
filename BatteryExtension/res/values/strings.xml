@@ -24,12 +24,13 @@
     
     <string name="charge_2">USB</string>
     <string name="charge_1">AC</string>
-    <string name="charge_5">WIRELESS</string>
+    <string name="charge_4">WIRELESS</string>
     
     <string name="charge_usb">USB</string>
     <string name="charge_ac">AC</string>
     <string name="charge_wireless">WIRELESS</string>
     
+    <string name="charging_1">Unknown</string>
     <string name="charging_2">Charging</string>
     <string name="charging_5">Full</string>
     <string name="charging_3">Not Charging</string>

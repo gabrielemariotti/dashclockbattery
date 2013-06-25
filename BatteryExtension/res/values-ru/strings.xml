@@ -1,0 +1,72 @@
+<!--
+  Copyright 2013 Google Inc.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">Расширение с батареей для DashClock</string>
+    
+    <string name="extension_title">Батарея</string>
+    <string name="extension_description">Отображать информацию о батарее</string>
+    <string name="extension_titlePref">Настройки батареи</string>
+    
+    
+    <string name="charge_2">USB</string>
+    <string name="charge_1">Зарядка</string>
+    <string name="charge_4">Беспроводная</string>
+    
+    <string name="charge_usb">USB</string>
+    <string name="charge_ac">От сети</string>
+    <string name="charge_wireless">Беспроводная</string>
+    
+    <string name="charging_1">Неизвестно</string>
+    <string name="charging_2">Заряжается</string>
+    <string name="charging_5">Полная</string>
+    <string name="charging_3">Не заряжается</string>
+    <string name="charging_4">Разряжается</string>
+    
+    <string name="charging">Заряжается</string>
+    <string name="discharging">Не заряжается</string>
+    <string name="full">Полная</string>
+    
+    <string name="battery_health_1">Неизвестно</string>
+    <string name="battery_health_2">Хорошо</string>
+    <string name="battery_health_3">Перегрев</string>
+    <string name="battery_health_4">Мертвая</string>
+    <string name="battery_health_5">Перенапряжение</string>
+    <string name="battery_health_6">Не указано</string>
+    <string name="battery_health_7">Холодная</string>
+    
+    <string name="celsius">°C</string>
+    <string name="mv">mV</string>
+    
+    <string name="pref_display">Детали о батарее</string>
+    <string name="pref_update">Обновить</string>
+    
+    <string name="pref_charge">Зарядить</string>
+    <string name="pref_chargeSummary">Отображать информацию о текущем типе мощности</string>
+    
+    <string name="pref_temp">Температура</string>
+    <string name="pref_tempSummary">Отображать информацию о температуре</string>
+    
+    <string name="pref_voltage">Вольтаж</string>
+    <string name="pref_voltageSummary">Отображать информацию о вольтаже</string>
+    
+    <string name="pref_health">Состояние</string>
+    <string name="pref_healthSummary">Отображать информацию о состоянии</string>
+    
+    <string name="pref_realtime">Обновление в режиме реального времени</string>
+    <string name="pref_realtimeSummary">Обновлять как только что-нибудь изменится</string>
+    
+</resources>
